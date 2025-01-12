@@ -1,0 +1,10 @@
+# Combined Project (Review 3 and 4)
+## Features
+- User registration and profile viewing using Servlets and JSP.
+- DAO and Service layers for user data management.
+- Unit tests for DAO and Service layers.
+
+## How to Run
+1. Clone the repository.
+2. Build the project using `mvn clean install`.
+3. Deploy on a Tomcat server.
